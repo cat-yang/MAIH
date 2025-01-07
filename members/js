@@ -1,0 +1,10 @@
+const members = [];
+
+const newMember = {
+    name: 'yk',
+    joined: new Date()
+};
+
+members.push(newMember);
+
+console.log(members);
